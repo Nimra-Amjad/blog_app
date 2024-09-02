@@ -15,5 +15,6 @@ class AppTheme {
       inputDecorationTheme: InputDecorationTheme(
           contentPadding: const EdgeInsets.all(27),
           enabledBorder: _border(),
+          errorBorder: _border(AppPallete.errorColor),
           focusedBorder: _border(AppPallete.gradient2)));
 }
