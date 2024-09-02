@@ -40,6 +40,9 @@ dependencies:
   get_it: ^7.7.0
   supabase_flutter: ^2.5.11
   internet_connection_checker_plus: ^2.5.1
+  hive: ^4.0.0-dev.2
+  isar_flutter_libs: ^4.0.0-dev.13
+  path_provider: ^2.0.0
 
 dev_dependencies:
   flutter_lints: ^3.0.0
